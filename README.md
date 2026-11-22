@@ -41,8 +41,3 @@ An AI-powered healthcare education and personal health management platform align
 
 - GitHub: [@arajeshwari211-cmd](https://github.com/arajeshwari211-cmd)
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arajeshwari211-cmd&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arajeshwari211-cmd&layout=compact&theme=tokyonight)
