@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Rajeshwari! 👋
 
-<!--
-**arajeshwari211-cmd/arajeshwari211-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer passionate about building useful applications and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🌱 Currently learning Java and Data Structures & Algorithms.
+- 🤖 Interested in Artificial Intelligence and Full-Stack Development.
+- 🚀 Building projects to improve my development skills.
+- 🎯 Preparing for software engineering opportunities.
+
+## 🛠️ Technologies & Tools
+- **Languages:** Java, JavaScript, TypeScript
+- **Frontend:** HTML, CSS, React
+- **Backend:** Node.js, Express.js
+- **Database:** SQLite
+- **Tools:** Git, GitHub, Figma, Google AI Studio
+
+## 🚀 Projects
+
+### MediGuide AI
+An AI-powered healthcare education and personal health management platform aligned with UN SDG 3 – Good Health and Well-being.
+
+**Technologies:** React, TypeScript, Node.js, Express, SQLite, Google Gemini AI.
+
+[View Project](https://github.com/arajeshwari211-cmd/MediGuide-AI)
+
+## 📚 Currently Learning
+- Java Programming
+- Data Structures and Algorithms
+- Full-Stack Development
+- AI Integration
+
+## 📫 Connect With Me
+- GitHub: [@arajeshwari211-cmd](https://github.com/arajeshwari211-cmd)
